@@ -1,0 +1,13 @@
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\bin\Debug\netcoreapp3.1\Week1Prova.exe
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\bin\Debug\netcoreapp3.1\Week1Prova.deps.json
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\bin\Debug\netcoreapp3.1\Week1Prova.runtimeconfig.json
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\bin\Debug\netcoreapp3.1\Week1Prova.runtimeconfig.dev.json
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\bin\Debug\netcoreapp3.1\Week1Prova.dll
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\bin\Debug\netcoreapp3.1\Week1Prova.pdb
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\obj\Debug\netcoreapp3.1\Week1Prova.csprojAssemblyReference.cache
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\obj\Debug\netcoreapp3.1\Week1Prova.AssemblyInfoInputs.cache
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\obj\Debug\netcoreapp3.1\Week1Prova.AssemblyInfo.cs
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\obj\Debug\netcoreapp3.1\Week1Prova.csproj.CoreCompileInputs.cache
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\obj\Debug\netcoreapp3.1\Week1Prova.dll
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\obj\Debug\netcoreapp3.1\Week1Prova.pdb
+C:\Users\WORK\source\repos\Week1Prova\Week1Prova\obj\Debug\netcoreapp3.1\Week1Prova.genruntimeconfig.cache
